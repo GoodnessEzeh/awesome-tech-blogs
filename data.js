@@ -1950,4 +1950,15 @@ module.exports = [
       "Photoshop",
     ],
   },
+  {
+    name: "Goodness Ezeh",
+    description:
+      "Software Developer | A selfless beneficiary of innovative technology, driven towards unlocking more of those benefits for our generation and the ones yet unborn",
+    url: "https://goodnessezeh.medium.com/",
+    tags: [
+      "Software Development",
+      "Python",
+      "Artificial Intelligence",
+    ],
+  },
 ];
